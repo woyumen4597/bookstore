@@ -1,6 +1,6 @@
-# bookstore [![Build Status](https://travis-ci.org/upbit/pixivpy.svg)](http://123.206.130.92:8080/bs)
+# bookstore [![Build Status](https://travis-ci.org/upbit/pixivpy.svg)](http://www.woyumen4597.me/bs)
 
-## 破产版UI [网上书店](http://123.206.130.92:8080/bs)
+## 破产版UI [网上书店](http://www.woyumen4597.me/bs)
 
 ## 预览
 
