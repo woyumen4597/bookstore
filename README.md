@@ -4,7 +4,7 @@
 
 ## 预览
 
- ![](http://123.206.130.92/images/1.png)
+ ![](http://images.woyumen4597.me/1.png)
 
 ## 食用方法:
 
