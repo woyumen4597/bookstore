@@ -1,10 +1,10 @@
-# bookstore [![Build Status](https://travis-ci.org/upbit/pixivpy.svg)](http://bs.woyumen4597.me)
+# bookstore [![Build Status](https://img.shields.io/travis/rust-lang/rust.svg)](http://bs.woyumen4597.me)
 
 ## 破产版UI [网上书店](http://bs.woyumen4597.me)
 
 ## 预览
 
- ![](http://images.woyumen4597.me/1.png)
+ ![](./bs/1.png)
 
 ## 食用方法:
 
